@@ -1,3 +1,4 @@
+# UPDATED 2022
 # Teacher-free-Knowledge-Distillation
 ## Implementation for our paper: Revisiting Knowledge Distillation via Label Smoothing Regularization, [arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Revisit+Knowledge+Distillation%3A+a+Teacher-free+Framework+Yuan&btnG=) 
 
